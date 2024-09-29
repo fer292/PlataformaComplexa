@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    font: normal 55px Arial;
+    margin-top: 30px;
+}
+section {
+    max-width: 1000px;
+    min-height: 280px;
+    background-color: beige;
+    margin: auto;
+    text-indent: 30px;
+    padding: 10px;
+    border-radius: 15px 0px 15px 0px;
+}
+p {
+    font-size: 25px;
+    font-weight: normal;
+    font-family: sans-serif;
+}
